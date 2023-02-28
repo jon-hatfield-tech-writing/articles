@@ -1,1 +1,1 @@
-# Articles JH
+# Technology articles by Jon Hatfield
