@@ -73,7 +73,7 @@ application code are still common, especially for backing RESTful APIs.
 
 - Data Transfer
 <p>
-With decoupled microservices becoming the standard choice of architectures, along with RESTful APIs and decoupled
+With decoupled microservices becoming the standard choice of architecture, along with RESTful APIs and decoupled
 front ends, there is an increased need for integration. Messaging systems such as
 <a href="https://kafka.apache.org/">Kafka</a>
 are an effective way to asynchronously decouple backend microservices and handle large volumes of data. It is also common for companies 
