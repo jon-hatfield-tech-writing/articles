@@ -13,8 +13,8 @@ users of the internet to understand how this data is stored and used.
 The storage options of SQL and noSQL remain the most relevant. Whilst SQL is the older technology it is 
 still the best option for structured data and transactions, providing the amount of data is relatively 
 small e.g. under 100 million rows per table. For fast performance, simpler data structures and higher 
-volumes, noSQL is the best option. Cloud implementation such as
-[AWS RDS]("https://aws.amazon.com/rds)
+volumes, noSQL is the best option. Cloud implementations such as
+[AWS RDS]("https://aws.amazon.com/rds")
 and
 <a href="https://aws.amazon.com/dynamodb/">DynamoDB</a>
 continue to
