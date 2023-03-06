@@ -1,7 +1,7 @@
 ![mentoring at laptop](../images/mentoring.jpg)
 
 # Mentoring Junior Software Engineers
-### by Jon Hatfield - Mar 1, 2023
+### by Jon Hatfield - Mar 6, 2023
 
 Most senior and lead developers will help to train junior developers by virtue of their experience. However, companies
 rarely offer official structure or guidance for the mentor. The mentor is usually fully responsible for defining and 
@@ -25,7 +25,7 @@ beneficial to yourself as mentor because they will be more efficient and more li
 
 To make sure that your expectations are aligned with those of your mentee it's necessary to propose what you intend 
 to do. The contents and approach of a mentoring relationship is likely to be conceived of differently between
-individuals to it helps to be explicit about your intentions. The nature of the mentoring will also vary depending
+individuals so it helps to be explicit about your intentions. The nature of the mentoring will also vary depending
 on the experience and capabilities of the mentee, the nature of the project and the expected level of their 
 involvement. If there are clear tangible goals, such as specific features to be implemented, then these can be
 defined and communicated. If the mentor is present mainly for their own benefit, for example they are gaining
@@ -79,6 +79,6 @@ everybody benefits by adapting quickly and giving them an increased or more comp
 
 ![thank you](../images/thank-you.jpg)
 
-Thanking a mentee and articulating how they have helped will make them feel appreciated and keep your working 
-relationship healthy, whether verbal or sent electronically. It also contributes to a positive working
+Thanking a mentee and articulating how they have helped, whether verbally or sent electronically, will make them 
+feel appreciated and keep your working relationship healthy. It also contributes to a positive working
 environment and sets a good example to colleagues. It takes very little time or effort yet has a big impact.
