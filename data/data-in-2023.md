@@ -14,7 +14,7 @@ The storage options of SQL and noSQL remain the most relevant. Whilst SQL is the
 still the best option for structured data and transactions, providing the amount of data is relatively 
 small e.g. under 100 million rows per table. For fast performance, simpler data structures and higher 
 volumes, noSQL is the best option. Cloud implementations such as
-[AWS RDS]("https://aws.amazon.com/rds")
+[AWS RDS](https://aws.amazon.com/rds)
 and
 <a href="https://aws.amazon.com/dynamodb/">DynamoDB</a>
 continue to
@@ -53,7 +53,7 @@ and artificial intelligence will become more common additions to dashboards, all
 ## Software Development
 
 Applications can connect to cloud data with SDKs e.g.
-[AWS SDK for Python]("https://aws.amazon.com/sdk-for-python/").
+[AWS SDK for Python](https://aws.amazon.com/sdk-for-python/).
 Data management through code is simplified with frameworks such as
 <a href="https://spring.io/batch">Java Spring Batch</a>
 and
