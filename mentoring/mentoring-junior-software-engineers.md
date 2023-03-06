@@ -25,7 +25,14 @@ beneficial to yourself as mentor because they will be more efficient and more li
 
 To make sure that your expectations are aligned with those of your mentee it's necessary to propose what you intend 
 to do. The contents and approach of a mentoring relationship is likely to be conceived of differently between
-individuals to it helps to be explicit about your intentions. 
+individuals to it helps to be explicit about your intentions. The nature of the mentoring will also vary depending
+on the experience and capabilities of the mentee, the nature of the project and the expected level of their 
+involvement. If there are clear tangible goals, such as specific features to be implemented, then these can be
+defined and communicated. If the mentor is present mainly for their own benefit, for example they are gaining
+work experience, then they may only be expected to generally help out and observe. If the mentee is very
+inexperienced it can help to give them a demo project to work on until they are ready to contribute to a real
+project. Also consider your own availability and time constraints and the potential for other colleagues to help
+share the mentoring workload.
 
 As a mentor you are also a leader, so expect the need to be proactive and let the mentor know that you are likely
 to step in and take control sometimes. For example, if they are struggling on a task, it may be best to re-assign it
