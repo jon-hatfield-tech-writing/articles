@@ -42,7 +42,7 @@ more automated and streamlined.
 ## Monitoring
 
 Most enterprise systems have a monitoring setup such as an
-[ELK stack<](https://www.elastic.co/what-is/elk-stack)
+[ELK stack](https://www.elastic.co/what-is/elk-stack)
 or
 [Datadog](https://www.datadoghq.com/)
 to present application data, metrics and logs. The data consolidation and visualisation features of dashboards are

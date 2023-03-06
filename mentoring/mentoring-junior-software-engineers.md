@@ -6,7 +6,7 @@
 Most senior and lead developers will help to train junior developers by virtue of their experience. However, companies
 rarely offer official structure or guidance for the mentor. The mentor is usually fully responsible for defining and 
 executing all aspects of the process. This in turn means that the process is far from standardized. This article is 
-based on the resulting trial and error nature of my own experience, consisting of around 5 years of mentoring.
+based on the resulting trial and error nature of my own experience, consisting of around 10 years of mentoring.
 
 ## Be Approachable
 
@@ -68,9 +68,17 @@ programming and all the other standard Agile practices. Ad hoc meetings can also
 longer term scheduled meetings. If the mentee is fully integrated into the scrum team then the need for additional
 meetings is minimal, otherwise it can be useful to have some short term and long term milestones.
 
+If other team members are helping with the mentoring, for example the mentee is pair programming with another
+developer or assisting a tester with QA, remember to get that team member's opinions and stay up to date with
+developments. Also keep them up to date with your own learnings and observations about the mentee. As per the Agile
+philosophy it's better to make small and frequent amendments instead of waiting for a longer term meeting. For example,
+some mentees are very capable and can be given more responsibility; they may even ask for it too. In this case, 
+everybody benefits by adapting quickly and giving them an increased or more complex workload.
+
 ## Show Appreciation
 
 ![thank you](../images/thank-you.jpg)
 
 Thanking a mentee and articulating how they have helped will make them feel appreciated and keep your working 
-relationship healthy.
+relationship healthy, whether verbal or sent electronically. It also contributes to a positive working
+environment and sets a good example to colleagues. It takes very little time or effort yet has a big impact.
