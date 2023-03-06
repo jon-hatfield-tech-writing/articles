@@ -3,14 +3,67 @@
 # Mentoring Junior Software Engineers
 ### by Jon Hatfield - Mar 1, 2023
 
-<p>
 Most senior and lead developers will help to train junior developers by virtue of their experience. However, companies
 rarely offer official structure or guidance for the mentor. The mentor is usually fully responsible for defining and 
 executing all aspects of the process. This in turn means that the process is far from standardized. This article is 
 based on the resulting trial and error nature of my own experience, consisting of around 5 years of mentoring.
-</p>
 
 ## Be Approachable
+
 ![smiley](../images/smiley.jpg)
-<p>
-</p>
+
+Being approachable is arguably the most important part of being a mentor. Ideally, the first step to should be to spend
+at least a few minutes having a friendly chat and getting to know each other. There are many advantages to this, besides the
+obvious courtesy and virtue of being kind. For example, it improves the working relationship from the start and even 
+increase the potential to be friends. The mentee will in turn feel able to open up and give honest opinions. They will 
+also be more confident, more likely to contribute and more motivated. A good relationship with your mentee is also 
+beneficial to yourself as mentor because they will be more efficient and more likely to help you in return in future.
+
+## Outline What You Propose To Do
+
+![proposition](../images/proposition.jpg)
+
+To make sure that your expectations are aligned with those of your mentee it's necessary to propose what you intend 
+to do. The contents and approach of a mentoring relationship is likely to be conceived of differently between
+individuals to it helps to be explicit about your intentions. 
+
+As a mentor you are also a leader, so expect the need to be proactive and let the mentor know that you are likely
+to step in and take control sometimes. For example, if they are struggling on a task, it may be best to re-assign it
+rather than push them too hard to do something that is beyond their capability. It is up to the mentor to observe
+and assess whether to give support or to hand over a task to a more experienced engineer. Note that some mentees
+may ask for help too easily, without trying sufficiently, whilst others may not admit that they are struggling, so
+account for this individual variation when making a judgement.
+
+## Ask Questions
+
+![question mark](../images/question-mark.jpg)
+
+Questions help to keep the mentoring on track. Perhaps the mentee needs help and they do not want to ask, or conversely
+they may feel that they are being micromanaged. Sometimes a quick check that they are OK is sufficient since it will
+trigger a conversation if one is needed. If there is a specific concern that you have, or there is a concern that you
+suspect that they have, then it's best to address it. Have a private one-to-one meeting if the subject is sensitive and
+remember to be tactful. If the subject is very sensitive, such as concerns about their achievements, it may be best
+to seek the advice of a trusted colleague or line manager first, especially because some issues may not be your
+responsibility to address. 
+
+Keep in mind that different individuals will respond differently and also have different preferences and requirements
+for how much you intervene. If in doubt then ask if they would prefer more or less questioning and tailor accordingly. 
+
+## Be Agile
+
+![circular arrows](../images/circular.jpg)
+
+The 
+[Agile](https://www.agilealliance.org/agile101/)
+methodology is now employed by most software teams and ideally your mentee will be part of this team. The mentoring
+process should undergo frequent feedback and some of this will be achieved by sprints, retrospectives, pair 
+programming and all the other standard Agile practices. Ad hoc meetings can also be used for feedback, along with
+longer term scheduled meetings. If the mentee is fully integrated into the scrum team then the need for additional
+meetings is minimal, otherwise it can be useful to have some short term and long term milestones.
+
+## Show Appreciation
+
+![thank you](../images/thank-you.jpg)
+
+Thanking a mentee and articulating how they have helped will make them feel appreciated and keep your working 
+relationship healthy.
